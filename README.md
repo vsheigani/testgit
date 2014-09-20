@@ -30,3 +30,12 @@ testgit
 *    9-   **factoriel.c**  		          	    calculating the factoriel of a number
 *    10-  **fibonacci.c**			              calculating entered number terms of fibonacci series\
 *    11-  **hello.c**	           			    say hello to you in shell
+
+---
+readmehelp
+=========
+if You want to learn How to use Readme.md
+Use this links:
+- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
+- https://help.github.com/articles/markdown-basics>
+- https://github.com/github/markup/tree/master#html-sanitization >
