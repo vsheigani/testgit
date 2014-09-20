@@ -37,5 +37,5 @@ readmehelp
 if You want to learn How to use Readme.md
 Use this links:
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
-- https://help.github.com/articles/markdown-basics>
-- https://github.com/github/markup/tree/master#html-sanitization >
+- https://help.github.com/articles/markdown-basics
+- https://github.com/github/markup/tree/master#html-sanitization
